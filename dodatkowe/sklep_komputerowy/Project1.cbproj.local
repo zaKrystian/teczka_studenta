@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.787,C:\Users\Krystian\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=P:\PROGRAMOWANIE\RAD_Studio\Projekty\Sklep komputerowy\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,C:\Users\Krystian\Documents\Embarcadero\Studio\Projects\Unit1.h=P:\PROGRAMOWANIE\RAD_Studio\Projekty\Sklep komputerowy\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,C:\Users\Krystian\Documents\Embarcadero\Studio\Projects\Project1.cbproj=P:\PROGRAMOWANIE\RAD_Studio\Projekty\Sklep komputerowy\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,C:\Users\Krystian\Documents\Embarcadero\Studio\Projects\Unit1.dfm=P:\PROGRAMOWANIE\RAD_Studio\Projekty\Sklep komputerowy\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,P:\PROGRAMOWANIE\RAD_Studio\Projekty\Sklep komputerowy\Project1.cbproj=P:\PROGRAMOWANIE\RAD_Studio\Projekty\Sklep komputerowy\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\Krystian\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.806,C:\Users\Krystian\Documents\Embarcadero\Studio\Projects\Unit1.cpp=P:\PROGRAMOWANIE\RAD_Studio\Projekty\Sklep komputerowy\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.341,=C:\Users\Krystian\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

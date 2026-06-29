@@ -1,0 +1,12 @@
+
+__astcache/
+*.json
+*.o
+*.obj
+*.exe
+*.map
+*.dcu
+*.hpp
+*.compiled
+# Ignoruj konfigurację VS Code
+.vscode/
